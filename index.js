@@ -8,8 +8,8 @@ var options = {
   autoplay: true,
 //   contentType: 'video/avi',
   metadata: {
-    title: 'yueliangwan',
-    creator: 'feieryuedui',
+    title: 'yueyawan',
+    creator: 'F.I.R',
     type: 'audio', // can be 'video', 'audio' or 'image'
     // subtitlesUrl: 'http://url.to.some/subtitles.srt'
   }
